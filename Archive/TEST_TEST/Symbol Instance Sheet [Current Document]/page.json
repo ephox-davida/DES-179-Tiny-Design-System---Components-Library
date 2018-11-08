@@ -1,0 +1,103 @@
+{
+  "_class": "page",
+  "do_objectID": "204528AF-5C87-472C-9632-8CD20208A3A0",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 300,
+    "width": 300,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": true,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  },
+  "includeInCloudUpload": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "67B72330-F826-479E-B51C-0EC08AFA9B73"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "6D473B82-CD49-4957-8936-C765633F150B"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "30BE106F-2DCA-4C0F-B249-BAF444961511"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "35CE689F-9F53-4175-B8B7-5A9253E221A0"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "BC1032C6-A1CE-446B-8544-9FD07E082717"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "78E278BD-97F3-4C5A-B7E9-E407FA65BAC4"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "01E6B461-9AF3-4A25-95DE-88A393432A2A"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "C736EE22-1E3E-467E-967D-0BAB818B05CF"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "8C96BC73-2714-4835-BDF8-95951E101167"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "44E922FE-F9B8-441B-9C09-7AB8674B5FCC"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "2CEB7A1C-88E2-4C5E-AD8B-8E089F7A7563"
+    }
+  ],
+  "name": "Symbol Instance Sheet [Current Document]",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.sonburn.sketchplugins.symbol-instance-sheet": {
+      "source": "E08CF762-9E70-42CD-B038-17D3D7C0960C"
+    }
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  }
+}

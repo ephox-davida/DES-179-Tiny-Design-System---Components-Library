@@ -1,0 +1,51 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "do_objectID": "D9A12BF2-E2F9-4DD3-9074-CC066674873B",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "2DAB09FC-D0ED-424F-89B8-01E2D6C7E2EA",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "A91ECAA9-A48D-4776-A4F4-9B9486861E32",
+    "height": 23,
+    "width": 32,
+    "x": 2,
+    "y": 7
+  },
+  "hasClickThrough": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "group",
+      "id": "02E108CD-8699-44CF-97AA-65C0F6AF16A9"
+    }
+  ],
+  "name": "video-player",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "2440CBD9-2141-496A-8DF9-002491C5D231",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

@@ -1,0 +1,103 @@
+{
+  "_class": "group",
+  "do_objectID": "5EE0E94B-F039-4EF1-8788-860C81CA0AFE",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "DF20AC2A-08EA-49D9-A1E8-4416960A08D7",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "pdf",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "F68B2147-412C-418E-A634-FF534B7F7E19",
+    "height": 86,
+    "width": 86,
+    "x": 59,
+    "y": 59
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "6DBD00FC-7308-49F3-BC55-C5530D93DA98"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "EF30735D-797A-4939-BAB6-189AB02ECDE0"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "BC35E7E5-7350-4926-B04D-5B8B6174086F"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "CB1BF045-1FDF-4948-A426-9561149E69F0"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "5B440710-5632-47F5-A627-84CF9CBA2076"
+    }
+  ],
+  "name": "save-planet",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "borders": [
+      {
+        "_class": "border",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.06666666666666667,
+          "green": 0.06666666666666667,
+          "red": 0.06666666666666667
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "position": 0,
+        "thickness": 2
+      }
+    ],
+    "do_objectID": "3BA712ED-F620-4CDE-9D11-730A467822B7",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

@@ -1,0 +1,116 @@
+{
+  "_class": "shapeGroup",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "40FA4592-3DFE-4E17-BDA9-3BE2689CF821",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "9F93C77B-30E2-448A-931E-BEC49A9D790A",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "FC0142A4-822A-4B0E-B18D-85637B44B8C6",
+    "height": 3.892306585373125,
+    "width": 11.36118183639367,
+    "x": 0.9875377854277758,
+    "y": 30.57422631286579
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapePath",
+      "id": "2B54E04E-664E-4B2F-8FFD-151465B39FBA"
+    },
+    {
+      "class": "shapePath",
+      "id": "62A85513-BA72-43F1-8BB9-025E44B09B4D"
+    },
+    {
+      "class": "shapePath",
+      "id": "882B8D99-C2B0-47AD-A61A-E50A3B5AAFFF"
+    },
+    {
+      "class": "shapePath",
+      "id": "19BB6E90-5BAA-4819-A2A5-A21C7E214F84"
+    },
+    {
+      "class": "shapePath",
+      "id": "DA7B666D-F5CA-4ED2-B9C2-EAE21BE9D0A7"
+    }
+  ],
+  "name": "Text Copy 3",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "3610B38A-885E-48D4-A340-61275E65133B",
+    "endMarkerType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 1,
+          "green": 1,
+          "red": 1
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "textStyle": {
+      "_class": "textStyle",
+      "do_objectID": "058D95EF-D613-458C-8B7E-F4287C0EFE2F",
+      "encodedAttributes": {
+        "MSAttributedStringColorAttribute": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 1,
+          "green": 1,
+          "red": 1
+        },
+        "MSAttributedStringFontAttribute": {
+          "_class": "fontDescriptor",
+          "attributes": {
+            "name": "Avenir-Heavy",
+            "size": 14
+          }
+        },
+        "kerning": -0.1733333,
+        "paragraphStyle": {
+          "_class": "paragraphStyle",
+          "alignment": 0,
+          "allowsDefaultTighteningForTruncation": 0
+        },
+        "textStyleVerticalAlignmentKey": 0
+      },
+      "verticalAlignment": 0
+    },
+    "windingRule": 1
+  },
+  "windingRule": 1
+}

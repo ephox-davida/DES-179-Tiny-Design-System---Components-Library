@@ -1,0 +1,82 @@
+{
+  "_class": "shapeGroup",
+  "clippingMaskMode": 0,
+  "do_objectID": "D7C10DC9-3B6B-4D06-8937-18C73BE7AF53",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 19,
+    "width": 20,
+    "x": 2,
+    "y": 2
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "shapePath",
+      "id": "DB4DC775-99CC-476A-94E2-B2F2CFF993B8"
+    },
+    {
+      "class": "shapePath",
+      "id": "9947C74A-A85B-4A6F-ACC7-9813D1C31CA4"
+    },
+    {
+      "class": "shapePath",
+      "id": "0759670E-8CBC-42BB-B950-FEB48B123DEA"
+    },
+    {
+      "class": "shapePath",
+      "id": "3453D9F2-7992-4DF8-A45F-84DAC790FE16"
+    },
+    {
+      "class": "shapePath",
+      "id": "53F0A1E9-311F-4AA3-B362-BBDCFD585474"
+    }
+  ],
+  "name": "ic_card_giftcard_48px",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.06666666666666667,
+          "green": 0.06666666666666667,
+          "red": 0.06666666666666667
+        },
+        "fillType": 0,
+        "isEnabled": false,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "windingRule": 0
+}

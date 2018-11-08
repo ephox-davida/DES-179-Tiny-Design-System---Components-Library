@@ -1,0 +1,124 @@
+{
+  "_class": "shapeGroup",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "55C2C015-4C9E-44C1-8309-B4963A6F033F",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "E2D5A27C-3B5D-4B26-862D-74D9E76285E1",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "FC14BA56-3D8B-40DE-9D7C-35622A8CF37B",
+    "height": 13,
+    "width": 34,
+    "x": 1,
+    "y": 21
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "shapePath",
+      "id": "42A4F8FA-ECA0-4D3B-963A-678206C90DD0"
+    },
+    {
+      "class": "shapePath",
+      "id": "6DFD955C-4454-46E6-9562-11E8A8C97ECF"
+    },
+    {
+      "class": "rectangle",
+      "id": "36C61E02-B47C-4450-86FE-C309C95F4369"
+    },
+    {
+      "class": "rectangle",
+      "id": "4FC5F83E-E5AB-420A-8981-1D395CC29A31"
+    },
+    {
+      "class": "rectangle",
+      "id": "F7052A0A-DA35-4110-87D3-CF83715BDDAD"
+    },
+    {
+      "class": "rectangle",
+      "id": "30F85D34-52F3-4FC1-AF85-920C1BBDF5A7"
+    },
+    {
+      "class": "rectangle",
+      "id": "5A5A1F22-48DE-4297-B229-68BF6487D630"
+    },
+    {
+      "class": "rectangle",
+      "id": "9C16C31C-17A0-4DA4-B683-E5881D512CA7"
+    },
+    {
+      "class": "rectangle",
+      "id": "FE409019-C90A-4F39-BAFC-1459EBA91C89"
+    },
+    {
+      "class": "rectangle",
+      "id": "BF9F3610-5D2D-4C45-B790-83BD6F240D7D"
+    },
+    {
+      "class": "rectangle",
+      "id": "D61F5D67-CCEE-46D2-AFA9-B684799333A5"
+    },
+    {
+      "class": "rectangle",
+      "id": "0DFB1F29-9491-4834-ACCA-85AAF4D999A5"
+    },
+    {
+      "class": "rectangle",
+      "id": "28244D97-2F5C-48AF-B7C3-4994AC7FF86F"
+    },
+    {
+      "class": "rectangle",
+      "id": "B5485AE2-F648-4AC4-BF11-F71E7FCB47D5"
+    }
+  ],
+  "name": "Rectangle 14 Copy",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "D2B8DBD9-E9AC-4B97-B73A-4519D2A4518C",
+    "endMarkerType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 1,
+          "green": 1,
+          "red": 1
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 0
+  },
+  "windingRule": 0
+}

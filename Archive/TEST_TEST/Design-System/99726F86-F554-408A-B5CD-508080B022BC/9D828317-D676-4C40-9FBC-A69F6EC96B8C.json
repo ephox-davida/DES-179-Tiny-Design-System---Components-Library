@@ -1,0 +1,73 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "9D828317-D676-4C40-9FBC-A69F6EC96B8C",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "2BD92E43-4243-4B68-A59A-0478D10A7B39",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "765CC836-BD4D-4899-80CC-5433E3F87201",
+    "height": 40,
+    "width": 148,
+    "x": 374,
+    "y": 323
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Button/default Copy 3",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "E6F935F2-2A52-4EE1-AE22-7F5A0D1896F0",
+      "overrideName": "8623A453-3682-437E-B664-D6676D0E7980/A4F531F7-8FD1-4A7E-88B6-528AF2816853_symbolID",
+      "value": "5D4088DD-5875-451A-AA4D-7806289BF488"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "5E70D4D5-1B99-49FC-98BB-261B0268D789",
+      "overrideName": "7C8D551B-F58C-43D0-8BD9-480DE4C4E90F_stringValue",
+      "value": "Magenta Button"
+    }
+  ],
+  "overrides": {
+    "7C8D551B-F58C-43D0-8BD9-480DE4C4E90F": "Magenta Button",
+    "8623A453-3682-437E-B664-D6676D0E7980": {
+      "A4F531F7-8FD1-4A7E-88B6-528AF2816853": {
+        "symbolID": "5D4088DD-5875-451A-AA4D-7806289BF488"
+      }
+    }
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "B46D608B-72E3-413E-9AE9-0A6162B3F20F",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "8D591021-4E38-44C2-8EEE-36F570EDC429",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalSpacing": 0
+}

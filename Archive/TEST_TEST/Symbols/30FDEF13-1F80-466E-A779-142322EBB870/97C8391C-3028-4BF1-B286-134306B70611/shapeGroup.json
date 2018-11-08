@@ -1,0 +1,86 @@
+{
+  "_class": "shapeGroup",
+  "clippingMaskMode": 0,
+  "do_objectID": "97C8391C-3028-4BF1-B286-134306B70611",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 47.02285714285714,
+    "width": 40,
+    "x": 4,
+    "y": 0.9771428571428586
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "shapePath",
+      "id": "AC32D190-7A36-4276-AA2F-CAEECEE09B31"
+    },
+    {
+      "class": "shapePath",
+      "id": "98D45EFF-15EC-4F37-99B8-5B49B809CBCE"
+    },
+    {
+      "class": "shapePath",
+      "id": "0C1C3059-04E6-4A00-B49D-BCCACA82D190"
+    },
+    {
+      "class": "shapePath",
+      "id": "436AEB4B-7F45-4E6D-A1AF-AABB4D41A137"
+    },
+    {
+      "class": "shapePath",
+      "id": "9C346787-6574-4066-8CF2-4810480106A9"
+    },
+    {
+      "class": "shapePath",
+      "id": "8B5085C9-897F-473B-92DC-7D456DDF2F69"
+    }
+  ],
+  "name": "ic_android_48px",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.06666666666666667,
+          "green": 0.06666666666666667,
+          "red": 0.06666666666666667
+        },
+        "fillType": 0,
+        "isEnabled": false,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "windingRule": 0
+}
