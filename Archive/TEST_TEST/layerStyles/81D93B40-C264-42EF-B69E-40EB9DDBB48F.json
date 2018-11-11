@@ -4,7 +4,7 @@
   "name": "shape/hover",
   "value": {
     "_class": "style",
-    "endDecorationType": 0,
+    "endMarkerType": 0,
     "fills": [
       {
         "_class": "fill",
@@ -87,6 +87,7 @@
       }
     ],
     "sharedObjectID": "81D93B40-C264-42EF-B69E-40EB9DDBB48F",
-    "startDecorationType": 0
+    "startMarkerType": 0,
+    "windingRule": 1
   }
 }

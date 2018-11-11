@@ -4,7 +4,7 @@
   "name": "shape/default",
   "value": {
     "_class": "style",
-    "endDecorationType": 0,
+    "endMarkerType": 0,
     "fills": [
       {
         "_class": "fill",
@@ -87,6 +87,7 @@
       }
     ],
     "sharedObjectID": "641228CE-1249-4198-ADA0-400555CCC8BC",
-    "startDecorationType": 0
+    "startMarkerType": 0,
+    "windingRule": 1
   }
 }
